@@ -17,6 +17,8 @@ proyectos emocionantes. Juntos, podemos elevar el nivel de la comunidad de desar
 * [Foro PHPost](https://phpost.es)
 * [Nuestro servidor](https://discord.gg/mx25MxAwRe)
 * [Nuestro telegram](https://t.me/PHPost23)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z82S61Y)
 <!--
 
 **Here are some ideas to get you started:**
